@@ -32,7 +32,7 @@ A curated collection of ready-to-drop-in tools for [Amp](https://ampcode.com)'s 
 ## Contributing
 
 1. Fork the repo.  
-2. Place your executable (script or binary) in the root.  
+2. Place your script in the root.  
 3. Ensure it responds correctly to `TOOLBOX_ACTION=describe` and `TOOLBOX_ACTION=execute`.  
 4. Open a PR with a short description and usage example.
 
