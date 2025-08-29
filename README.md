@@ -15,7 +15,7 @@ A curated collection of ready-to-drop-in tools for [Amp](https://ampcode.com)'s 
    ```
 
 3. Launch Amp.  
-   Every script in this file in the repo is automatically discovered and becomes available to the AI.
+   Every script in this repo is automatically discovered and becomes available to the AI.
 
 ## Tool list
 
