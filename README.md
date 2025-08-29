@@ -1,6 +1,6 @@
 # amp-toolbox
 
-A curated collection of ready-to-drop-in tools for [Amp](https://ampcode.com)'s **Bring-Your-Own-Tools** feature.
+A curated collection of ready-to-drop-in tools for [Amp](https://ampcode.com/manual#toolboxes)'s **Bring-Your-Own-Tools** feature.
 
 ## Quick start
 
